@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Meu nome é Fernando, sou estudante e moro em Brasília. Adoro dar vida ao HTML com CSS e JS :blue_heart:. Estou cursando Sistemas para Internet na Estácio :blue_book:. Atualmente focado no desenvolvimento Front-End, e atrás de práticas que me tornem um desenvolvedor cada vez melhor.
+Meu nome é Fernando, sou estudante e moro em Brasília. Adoro dar vida ao HTML com CSS e JS :blue_heart:. Estudo front-end a quase um ano e atualmente curso Sistemas para Internet na Estácio :blue_book:.
 
 📫 Entre em contado comigo:
 <br/>
