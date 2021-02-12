@@ -7,4 +7,4 @@ Meu nome é Fernando, sou estudante e moro em Brasília. Adoro dar vida ao HTML 
 <br/> 
 [![Gmail Badge](https://img.shields.io/badge/-eunadno@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eunadno@gmail.com)](mailto:eunadno@gmail.com)
 &nbsp; 
-[![LinkedIn Badge](http://img.shields.io/badge/-eunadno@gmail.com-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fernando-machado-09b1721b1/)
+[![LinkedIn Badge](http://img.shields.io/badge/-eunadno@gmail.com-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nadno/)
