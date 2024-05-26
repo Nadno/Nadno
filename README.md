@@ -1,11 +1,9 @@
-### Olá! 👋
-
-### TECNOLOGIAS/EXPERIÊNCIAS PRINCIPAIS
+### Tecnologias/Experiências principais
 - HTML, SCSS, Typescript, Javascript, ECMAScript;
 - Vue.js; ReactJS;
 - Acessibilidade web;
 
-### EXPERIÊNCIAS
+### Experiências
 - Bootstrap, Tailwind CSS, Styled Components (Emotion);
 - JQuery;
 - CSharp, .NET;
