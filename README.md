@@ -11,7 +11,7 @@
 - MSSQLServer;
 - AWS Appsync, AWS S3;
 
-### SOBRE MIM
+### Sobre mim
 Formado em Sistemas para Internet, atuo como desenvolvedor Front-end há 3 anos, nos quais dei manutenção e implementei melhorias de performance e de segurança web em APIs e sites. Desenvolvi Hotsites e Landingpages para eventos digitais recorrentes e apliquei otimizações de UI/UX melhorando a experiência dos usuários. Também atuei em implantações de plataformas LMS, desenvolvendo e implementando Projetos de Identidade Visual no Figma.
 
 📫 Entre em contado comigo:
