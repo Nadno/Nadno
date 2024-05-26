@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Meu nome é Fernando, sou estudante e moro em Brasília. Adoro dar vida ao HTML com CSS e JS :blue_heart:. Estudo front-end a quase um ano e atualmente curso Sistemas para Internet na Estácio :blue_book:.
+Formado em Sistemas para Internet, atuo como desenvolvedor Front-end há 3 anos, nos quais dei manutenção e implementei melhorias de performance e de segurança web em APIs e sites. Desenvolvi Hotsites e Landingpages para eventos digitais recorrentes e apliquei otimizações de UI/UX melhorando a experiência dos usuários. Também atuei em implantações de plataformas LMS, desenvolvendo e implementando Projetos de Identidade Visual no Figma.
 
 📫 Entre em contado comigo:
 <br/>
